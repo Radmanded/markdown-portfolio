@@ -1,1 +1,1 @@
-Replace this with an image, like your photo. Ensure you include some alt-text.
+Need to add my **image**, but right now trying to get system up and running. 
